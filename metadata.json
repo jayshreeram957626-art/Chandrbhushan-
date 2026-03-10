@@ -1,0 +1,8 @@
+{
+  "name": "VidyaGuru AI",
+  "description": "Educational platform with VidyaGuru AI, a voice-enabled tutor that speaks simple Hindi for children and a professional math solver.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
